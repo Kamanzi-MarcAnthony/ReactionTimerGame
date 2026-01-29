@@ -16,7 +16,6 @@ export default{
             timer: null,
             reactionTime: 0
         }
-
     },
     mounted(){
         setTimeout(() => {
@@ -40,7 +39,6 @@ export default{
             this.$emit('game-over', this.reactionTime)
         }
     }
-
 }
 </script>
 

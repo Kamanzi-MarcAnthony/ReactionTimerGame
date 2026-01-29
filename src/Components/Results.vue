@@ -1,8 +1,7 @@
 <template>
     <div class="results">
         <p>Your reaction time is {{ score }} ms</p>
-    </div>
-    
+    </div> 
 </template>
 
 <script>

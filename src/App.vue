@@ -42,10 +42,7 @@ export default {
 }
 </script>
 
-
-
 <style>
-
 #app{
   font-family: Avenir, Arial, Helvetica, sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -54,5 +51,4 @@ export default {
   color:#444;
   margin-top:60px;
 }
-
 </style>
